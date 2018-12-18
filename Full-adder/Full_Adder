@@ -1,4 +1,4 @@
-module Full_Adder_Structural_Verilog( 
+module Full_Adder( 
   input X1, X2, Cin, 
   output S, Cout
   );  
