@@ -15,3 +15,5 @@ module half_adder(
      //Implement the Sum and Carry equations using Verilog Bit operators.
      assign Data_out_Sum = Data_in_A ^ Data_in_B;  //XOR operation
      assign Data_out_Carry = Data_in_A & Data_in_B; //AND operation
+     
+endmodule
