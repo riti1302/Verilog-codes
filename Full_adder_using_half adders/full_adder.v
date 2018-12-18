@@ -1,4 +1,4 @@
-module full_adder(
+.module full_adder(
     Data_in_A,  //input A
     Data_in_B,  //input B
     Data_in_C,  //input C
